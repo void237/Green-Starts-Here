@@ -1,10 +1,3 @@
-/**
-* Template Name: KnightOne
-* Updated: Mar 12 2024 with Bootstrap v5.3.3
-* Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -716,7 +709,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/cta-bg.bmp") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
@@ -1040,13 +1033,13 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Pricing
+# Energy Tips
 --------------------------------------------------------------*/
-.pricing {
+.energy {
   background-color: #f9f9f9;
 }
 
-.pricing .box {
+.energy .box {
   padding: 40px 20px;
   text-align: center;
   border-radius: 8px;
@@ -1056,7 +1049,7 @@ section {
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.1);
 }
 
-.pricing .box h3 {
+.energy .box h3 {
   font-weight: 400;
   padding: 15px;
   margin-top: 15px;
@@ -1065,7 +1058,7 @@ section {
   color: #282828;
 }
 
-.pricing .box h4 {
+.energy .box h4 {
   font-size: 42px;
   color: #009961;
   font-weight: 500;
@@ -1073,19 +1066,19 @@ section {
   margin-bottom: 20px;
 }
 
-.pricing .box h4 sup {
+.energy .box h4 sup {
   font-size: 20px;
   top: -15px;
   left: -3px;
 }
 
-.pricing .box h4 span {
+.energy .box h4 span {
   color: #bababa;
   font-size: 16px;
   font-weight: 300;
 }
 
-.pricing .box ul {
+.energy .box ul {
   padding: 20px 0;
   list-style: none;
   color: #282828;
@@ -1094,27 +1087,27 @@ section {
   font-size: 14px;
 }
 
-.pricing .box ul li {
+.energy .box ul li {
   padding-bottom: 16px;
 }
 
-.pricing .box ul i {
+.energy .box ul i {
   color: #009961;
   font-size: 18px;
   padding-right: 4px;
 }
 
-.pricing .box ul .na {
+.energy .box ul .na {
   color: #ccc;
   text-decoration: line-through;
 }
 
-.pricing .box .btn-wrap {
+.energy .box .btn-wrap {
   padding: 15px;
   text-align: center;
 }
 
-.pricing .box .btn-buy {
+.energy .box .btn-buy {
   display: inline-block;
   padding: 10px 40px 12px 40px;
   border-radius: 50px;
@@ -1127,26 +1120,26 @@ section {
   transition: 0.3s;
 }
 
-.pricing .box .btn-buy:hover {
+.energy .box .btn-buy:hover {
   background: #009961;
   color: #fff;
 }
 
-.pricing .recommended {
+.energy .recommended {
   border-color: #009961;
 }
 
-.pricing .recommended .btn-buy {
+.energy .recommended .btn-buy {
   background: #009961;
   color: #fff;
 }
 
-.pricing .recommended .btn-buy:hover {
+.energy .recommended .btn-buy:hover {
   background: #00b371;
   border-color: #00b371;
 }
 
-.pricing .recommended-badge {
+.energy .recommended-badge {
   position: absolute;
   top: 20px;
   left: 50%;
