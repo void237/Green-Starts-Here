@@ -206,7 +206,7 @@ h6 {
   padding: 25px 3px;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 0, 0);
+  color: rgba(145, 139, 139, 0.815);
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -227,7 +227,7 @@ h6 {
   bottom: -2px;
   left: 0;
   background-color: #03A63C;
-  visibility: hidden;
+  visibility: visible;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
 }
