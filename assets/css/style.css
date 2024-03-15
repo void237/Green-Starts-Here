@@ -1064,7 +1064,7 @@ section {
 }
 
 .gi-details .gi-info ul {
-  list-style: none;
+  list-style: disc;
   padding: 0;
   font-size: 15px;
 }
