@@ -101,15 +101,15 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background-color: black;
+  background-color: #0f0f0f;
   transition: all 0.5s;
   z-index: 997;
-  border-bottom: 1px visible rgb(0, 0, 0);
+  border-bottom: 1px visible #0f0f0f;
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgb(0, 0, 0);
+  background: #0f0f0f;
 }
 
 #header .logo {
