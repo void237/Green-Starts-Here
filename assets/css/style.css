@@ -102,6 +102,7 @@ h6 {
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
+  z-index: 997;
   border-bottom: .5px solid rgb(0, 0, 0);
 }
 
@@ -228,7 +229,7 @@ h6 {
   background-color: #03A63C;
   visibility: hidden;
   width: 0px;
-  transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-out-in 0s;
 }
 
 .navbar a:hover:before,
