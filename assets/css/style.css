@@ -103,12 +103,12 @@ h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  border-bottom: .5px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgb(0, 0, 0);
+  background: rgba(40, 40, 40, 0.9);
 }
 
 #header .logo {
@@ -229,7 +229,7 @@ h6 {
   background-color: #03A63C;
   visibility: hidden;
   width: 0px;
-  transition: all 0.3s ease-out-in 0s;
+  transition: all 0.3s ease-in-out 0s;
 }
 
 .navbar a:hover:before,
