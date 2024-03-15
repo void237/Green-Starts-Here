@@ -103,12 +103,12 @@ h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgb(0, 0, 0);
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 40, 40, 0.9);
+  background: rgb(0, 0, 0);
 }
 
 #header .logo {
@@ -206,7 +206,7 @@ h6 {
   padding: 25px 3px;
   font-size: 14px;
   font-weight: 600;
-  color: rgba(145, 139, 139, 0.815);
+  color: rgb(255, 255, 255);
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
