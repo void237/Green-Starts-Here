@@ -159,7 +159,17 @@ h6 {
     padding: 6px 18px;
   }
 }
-
+.get-started-btn2 {
+  margin-left: 25px;
+  background: #00000000;
+  color: #00000000;
+  border-radius: 50px;
+  padding: 8px 25px 9px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 14px;
+  display: none;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -760,14 +770,7 @@ section {
   color: #03A63C;
 }
 
-.card {
-  width: auto;
-  height: auto;
-  border-radius: 30px;
-  background: #e0e0e0;
-  box-shadow: 15px 15px 30px #bebebe,
-             -15px -15px 30px #ffffff;
-}
+
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
