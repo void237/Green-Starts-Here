@@ -1135,7 +1135,7 @@ section {
 
 .energy .box ul {
   padding: 20px 0;
-  list-style: none;
+  list-style: disc;
   color: #282828;
   text-align: center;
   line-height: 20px;
