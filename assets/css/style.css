@@ -420,7 +420,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/green.gif") top center;
+  background: url("../img/all.gif") top center;
   
   background-size: cover;
   position: relative;
@@ -436,7 +436,7 @@ h6 {
 #hero3 {
   width: 100%;
   height: 100vh;
-  background: url("../img/energy-efficient.gif") top center;
+  background: url("../img/app.gif") top center;
   
   background-size: cover;
   position: relative;
@@ -444,7 +444,7 @@ h6 {
 #hero4 {
   width: 100%;
   height: 100vh;
-  background: url("../img/cogs.gif") top center;
+  background: url("../img/three.gif") top center;
   
   background-size: contain;
   position: relative;
@@ -452,7 +452,7 @@ h6 {
 #hero5 {
   width: 100%;
   height: 100vh;
-  background: url("../img/brey.gif") top center;
+  background: url("../img/geo.gif") top center;
   
   background-size: contain;
 
