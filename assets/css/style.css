@@ -104,7 +104,7 @@ h6 {
   background-color: black;
   transition: all 0.5s;
   z-index: 997;
-  border-bottom: 1px hidden rgb(0, 0, 0);
+  border-bottom: 1px visible rgb(0, 0, 0);
 }
 
 #header.header-scrolled,
