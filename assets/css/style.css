@@ -502,7 +502,13 @@ h6 {
   line-height: 56px;
   color: #fff;
 }
-
+#hero5 h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+}
 #hero .play-btn {
   width: 94px;
   height: 94px;
