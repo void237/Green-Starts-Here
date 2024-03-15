@@ -102,7 +102,6 @@ h6 {
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
-  z-index: 997;
   border-bottom: .5px solid rgb(0, 0, 0);
 }
 
