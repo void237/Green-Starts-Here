@@ -104,12 +104,12 @@ h6 {
   background-color: black;
   transition: all 0.5s;
   z-index: 997;
-  border-bottom: 1px hidden rgba(255, 255, 255, 0.1);
+  border-bottom: 1px hidden rgb(0, 0, 0);
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 40, 40, 0.9);
+  background: rgb(0, 0, 0);
 }
 
 #header .logo {
@@ -179,7 +179,6 @@ h6 {
 */
 .navbar {
   padding: 0;
-  background-color: #0f0f0f;
 }
 
 .navbar ul {
