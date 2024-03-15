@@ -101,6 +101,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+  background-color: black;
   transition: all 0.5s;
   z-index: 997;
   border-bottom: 1px hidden rgba(255, 255, 255, 0.1);
@@ -180,9 +181,7 @@ h6 {
   padding: 0;
   background-color: #0f0f0f;
 }
-.navbar .a {
-  background-color: #0f0f0f;
-}
+
 .navbar ul {
   margin: 0;
   padding: 0;
